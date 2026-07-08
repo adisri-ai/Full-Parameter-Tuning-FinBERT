@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Quantization-Dynamic-success">
 <img src="https://img.shields.io/badge/NLP-FinBERT-blueviolet">
 <img src="https://img.shields.io/badge/HuggingFace-Hub-gold?logo=huggingface">
-<img src="https://img.shields.io/badge/License-MIT-green">
 
 </p>
 
