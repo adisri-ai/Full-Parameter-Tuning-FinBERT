@@ -271,10 +271,10 @@ scikit-learn
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
 
-tokenizer = AutoTokenizer.from_pretrained("your-model")
+tokenizer = AutoTokenizer.from_pretrained("adillm/finsentim")
 
 model = AutoModelForSequenceClassification.from_pretrained(
-    "your-model"
+    "adillm/finsentim"
 )
 ```
 
